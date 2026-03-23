@@ -5,13 +5,13 @@
 
 ---
 
-## 👤 Summary
+## Summary
 
 Backend engineer with **10+ years of experience** building and scaling distributed systems across oil & gas, edtech, and fintech. Specialized in **Java / Spring Boot**, microservices architecture, and heterogeneous data integration. Comfortable working across the stack — from REST API design to infrastructure migration — with a track record of delivering systems that stay in production for years.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### CTO *(Technical Focus)*
 **Dawere** &nbsp;·&nbsp; *Jul 2020 – Present* &nbsp;·&nbsp; Remote
@@ -59,7 +59,7 @@ Java developer roles across several firms in Caracas, Venezuela — building ERP
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor's in Systems Engineering**  
 Universidad Metropolitana (UNIMET) &nbsp;·&nbsp; Caracas, Venezuela &nbsp;·&nbsp; 2005 – 2011
